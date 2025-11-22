@@ -10,4 +10,5 @@ public enum PagDeviceTypeEnum {
     concentrator,
     meterGroup,
     mcu,
+    motherboard,
 }
